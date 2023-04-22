@@ -1,0 +1,12 @@
+.container{
+  background-color: aqua;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.span{
+  color: blue;
+  margin-left: 2px;
+}
